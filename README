@@ -1,4 +1,4 @@
-typespeed v0.6.4
+Wordstorm v0.7.1 (a fork of typespeed v0.6.5. Forked on 5th Oct 2023)
 ----------------
 Test your typing speed and get your fingers' CPS.
 
@@ -6,7 +6,7 @@ Index:
 1 Latest Version
 2 Overview
 3 Usage
-4 High Score File Format
+4 History
 5 Rule Sets
 6 Frequently Asked Questions
 7 Contact
@@ -15,8 +15,8 @@ Index:
 1 Latest Version
 ----------------
 
-You can download latest version of typespeed on typespeed's website
-located at http://tobias.eyedacor.org/typespeed/.
+You can download latest version of Wordstorm on github
+located at https://github.com/AlexTheAussieNerd/WordStormByAlex/
 
 
 2 Overview
